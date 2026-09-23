@@ -170,6 +170,14 @@ const Footer = () => {
               />
             </a>
           </div>
+          <a
+            href="https://recuperarportugal.gov.pt/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 inline-block text-slate-500 hover:text-slate-400 text-sm transition-colors"
+          >
+            recuperarportugal.gov.pt
+          </a>
         </div>
 
         {/* Bottom Bar */}
